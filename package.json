@@ -1,0 +1,24 @@
+{
+  "name": "cocreate",
+  "version": "0.0.1",
+  "description": "Testing cocreate SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianchilders/cocreate.git"
+  },
+  "keywords": [
+    "testing",
+    "cocreate",
+    "sdk"
+  ],
+  "author": "Brian Childers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brianchilders/cocreate/issues"
+  },
+  "homepage": "https://github.com/brianchilders/cocreate#readme"
+}
